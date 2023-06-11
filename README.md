@@ -1,4 +1,4 @@
-# Northwind Traders Story
+# Northwind Traders Tableau Story
 
 ## Background 
 Northwind Traders is a fictional company introduced by Microsoft as part of their sample database series called Northwind and Pubs. The database simulates a company that imports and exports gourmet food products to various customers around the world. It contains information on customers, suppliers, products, orders, and other related information that is typical of a real-world business. 
